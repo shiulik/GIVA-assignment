@@ -1,0 +1,19 @@
+TikTok may be the platform of choice for catchy videos, but anyone using it to learn about COVID-19, climate change or Russia's invasion of Ukraine is likely to encounter misleading information, according to a research report published Wednesday.
+Researchers at NewsGuard searched for content about prominent news topics on TikTok and say they found that nearly 1 in 5 of the videos automatically suggested by the platform contained misinformation.
+Searches for information about “mRNA vaccine," for instance, yielded five videos (out of the first 10) that contained misinformation, including baseless claims that the COVID-19 vaccine causes “permanent damage in children's critical organs.”
+Researchers looking for information about abortion, the 2020 election, the Jan. 6 insurrection at the U.S. Capitol, climate change or Russia's invasion of Ukraine on TikTok found similarly misleading videos scattered among more accurate clips.
+The amount of misinformation — and the ease with which it can be found — is especially troubling given TikTok's popularity with young people, according to Steven Brill, founder of NewsGuard, a firm that monitors misinformation.
+TikTok is the second most popular domain in the world, according to online performance and security company Cloudflare, exceeded only by Google. 
+Brill questioned whether ByteDance, the Chinese company that owns TikTok, is doing enough to stop misinformation or whether it deliberately allows misinformation to proliferate as a way to sow confusion in the U.S. and other Western democracies.
+“It's either incompetence or it's something worse,” Brill told The Associated Press.
+TikTok released a statement in response to NewsGuard's report noting that its community guidelines prohibit harmful misinformation and that it works to promote authoritative content about important topics like COVID-19. 
+“We do not allow harmful misinformation, including medical misinformation, and we will remove it from the platform,” the company said. 
+TikTok has taken other steps that it says are intended to direct users to trustworthy sources. This year, for example, the company created an election center to help U.S. voters find voting places or information about candidates.
+The platform removed more than 102 million videos that violated its rules in the first quarter of 2022. Yet only a tiny percentage of those ran afoul of TikTok's rules against misinformation.
+Researchers found that TikTok's own search tool seems designed to steer users to false claims in some cases. When researchers typed the words “COVID vaccine" into the search tool, for instance, the tool suggested searches on key words including “COVID vaccine exposed" and "COVID vaccine injury."
+When the same search was run on Google, however, that search engine suggested searches relating to more accurate information about vaccine clinics, the different types of vaccines and booster shots.
+TikTok's rise in popularity has caught the attention of state officials and federal lawmakers, some of whom have expressed concerns about its data privacy and security. 
+The Senate Homeland Security and Governmental Affairs Committee will hold a hearing Wednesday on social media's impact on the nation's security. TikTok's chief operating officer, Vanessa Pappas, is set to testify alongside representatives from YouTube, Twitter and Meta, which owns Instagram and Facebook.
+___
+Follow the AP's coverage of misinformation at https://apnews.com/hub/misinformation.
+By entering your email and clicking Sign Up, you're agreeing to let us send you customized marketing messages about us and our advertising partners. You are also agreeing to our Terms of Service and Privacy Policy.
