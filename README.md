@@ -69,3 +69,5 @@ This will start the FastAPI development server. The API will be available at:
 http://127.0.0.1:8000
 
 Access it at http://127.0.0.1:8000/docs
+
+Note: After first run faiss_vector_indices file get stored in index folder
